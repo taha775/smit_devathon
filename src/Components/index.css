@@ -1,0 +1,45 @@
+/* Home */
+
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: #075ddf !important;
+    color: white;
+    text-transform: capitalize;
+}
+Link{
+    color: white!important;
+}
+
+
+
+/* Home */
+
+
+
+
+/* LOgin */
+
+.login{
+    background-color: white;
+    border-radius: 20px;
+    
+}
+.login div{
+    background-color: #075ddf;
+    color: white;
+}
+
+/* LOgin */
+
+
+/* Signup  Signup  Signup  Signup */
+
+
+
+/* Signup  Signup  Signup  Signup */
